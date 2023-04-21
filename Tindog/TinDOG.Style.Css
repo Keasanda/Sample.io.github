@@ -1,0 +1,220 @@
+#title{
+    background-color: red;
+   
+
+}
+
+.navbar-brand{
+    color: white;
+    
+}
+
+h1{
+font-family: 'Ubuntu', sans-serif;
+ font-size :3rem;
+ line-height: 1,5;
+ color: white;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.btn{
+    margin: 10px ;
+    
+    margin-top: 30px;
+}
+
+.navbar-nav{
+    padding: 18px;
+}
+
+.page-font{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.navbar{
+    margin-bottom: 40px;
+}
+
+.title-image{
+    width: 55%;
+
+  
+    transform: rotate(15deg); /* Equal to rotateZ(45deg) */
+  padding-right: 15px;
+
+
+}
+
+
+.fa-5x{
+color: orange;
+
+
+margin-left: 40%;
+
+}
+
+.col-sm{
+    margin-top: 50px;
+}
+
+.fa-5x:hover{
+    color: red;
+    
+
+}
+
+
+.p-Features {
+    color: grey;
+
+    text-align: center;
+
+    padding: 20px;
+  
+}
+
+
+#testimonials {
+
+
+padding: 7% 15%;
+
+text-align: center;
+
+background-color: #ef8172 ;
+
+color: white;
+
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1,5;
+}
+
+.testimonial-image{
+
+
+    width:15% ;
+    border-radius: 100%;
+
+    margin: 45px;
+
+}
+
+
+#press {
+
+    background-color: #ef8172 ; 
+
+    text-align: center;
+
+    padding-bottom: 3%;
+
+
+}
+
+.press-logo{
+    width: 15%;
+
+    margin: 20px 20px 50px;
+}
+
+
+.pricing-text{
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1,5;
+
+}
+
+.carousel-item{
+
+   
+    padding: 7%  15%;
+}
+
+.card{
+   margin: 25px;
+   text-align: center;
+
+   margin-top: 10%;
+}
+
+.testimonial-text{ 
+    text-align: center;
+}
+
+.pricing-text{
+
+  margin: 20px;
+    text-align: center;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1,5;
+}
+
+
+#features{
+   
+
+    background-color: white;
+    position: relative;
+
+}
+
+@media  (max-width: 1028px ) {
+
+    .title-image{
+
+        position: static;
+        transform: rotate(0);
+    }
+
+    }
+    
+    .bg-colour{
+
+        text-align: center;
+
+    background-color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+
+    }
+
+    .last-txt{
+
+        margin: 20px;
+        text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+        font-size: 3rem;
+        line-height: 1,5;
+    }
+
+    #footer{
+margin-top: 40px;
+        text-align: center;
+    }
+
+    .T-Center {
+
+       
+       align-content: center;
+    }
+    .fa-x2{
+
+        padding: 20px;
+    }
+
+    .nav-link{
+        color: white;
+    }
